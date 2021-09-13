@@ -1,19 +1,12 @@
 ---
 layout: page
-title: Styleguide
-permalink: /styleguide/
+title: Tools
+permalink: /tools/
 ---
 
-Demo of the content, layout, styleguide, etc.
 
-## Headings
+#### This is a curated list of the tools that I love and use on my everyday basis as a researcher, writer, freelancer, and tinkerer.
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
 
 This is a paragraph. This contains a <mark>marked</mark> text, while trying to include others such as `quotes`, and some _italic_ text, while being not subtle enough to be __bold and beautiful__.
 

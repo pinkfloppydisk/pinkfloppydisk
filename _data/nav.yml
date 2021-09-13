@@ -1,12 +1,14 @@
 - title: About
   url: /about/
 
-- title: Blog
-  url: /blog/
+- title: Writings
+  url: /writings/
+
+- title: Tools
+  url: /tools/
 
 - title: Colophon
   url: /colophon/
 
-- title: Tools
-  url: /tools/
+
 
