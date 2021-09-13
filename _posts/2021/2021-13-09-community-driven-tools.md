@@ -1,7 +1,7 @@
 ---
 title: Community Driven Tools
 author: pinkfloppydisk
-date: [[09-12-2021]]
+date: [[12-09-2021]]
 tags: obsidian, notetaking, rant, toolsforthought
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: Title Here
 author: pinkfloppydisk
-date: [[09-11-2021]]
+date: [[11-09-2021]]
 tags: obsidian, notetaking, rant, toolsforthought
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: Posting from Obsidian
 author: pinkfloppydisk
-date: [[09-10-2021]]
+date: [[10-09-2021]]
 tags: obsidian, notetaking, rant, toolsforthought
 layout: post
 ---

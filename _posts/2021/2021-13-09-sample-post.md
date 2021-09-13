@@ -1,7 +1,7 @@
 ---
 title: Title Here
 author: pinkfloppydisk
-date: Monday, September 13, 2021, 1:58 PM
+date: [13-09-2021]]
 layout: post
 ---
 
