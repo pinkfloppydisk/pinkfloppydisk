@@ -1,0 +1,20 @@
+<footer class="footer">
+  {% include nav.html %}
+  <div class="footer__credit">
+    <div>
+      <p>
+        {% if site.footer.custom != false %}
+          <small>{{ site.footer_custom }}</small>
+        {% else %}
+          <small>© {{ "now" | date: "%Y" }}</small>
+        {% endif %}
+        {% if site.footer.credit != false %}
+          <small><a href="pinkfloppydisk.com" target="_blank">pinkfloppydisk</a></small>
+        {% endif %}
+      </p>
+    </div>
+    {% if site.layout.theme_switch != false %}
+      {% include appearance.html %}
+    {% endif %}
+  </div>
+</footer>
