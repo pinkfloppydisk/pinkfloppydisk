@@ -3,7 +3,7 @@ title: Trying out Obsidian
 author: pinkfloppydisk
 date: [[09-09-2021]]
 tags: obsidian, notetaking, rant, toolsforthought
-alias: [Tools,Writing,Obsidian,pinkfloppydisk]
+layout: post
 ---
 
 This is going to be my second attempt in trying out Obsidian for a week. I've already done this before but failed because of how overwhelming this software is for beginners. I still don't think it would replace my my love for Notion. Sync for mobile and desktop is still not available unless you paid for their subscription fee which is $5/month or $48/ year according to their [website](https://obsidian.md/sync)

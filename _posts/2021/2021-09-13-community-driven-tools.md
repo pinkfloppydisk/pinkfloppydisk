@@ -2,8 +2,8 @@
 title: Community Driven Tools
 author: pinkfloppydisk
 date: [[09-12-2021]]
-tags: obsidian, notetaking, rant, toolsforthought, community
-alias: [Tools,Writing,Obsidian,pinkfloppydisk]
+tags: obsidian, notetaking, rant, toolsforthought
+layout: post
 ---
 
 I think I've installed the essential Obsidian plugins for "beginners". I'm on Day 4 and I'm still discovering a lot of useful plugins to make your Obsidian experience great. I still think that Obsidian is just another note-taking app but open source and other users can contribute in creating features in to the app. It's more like building in public but for Obsidian and its users. 
