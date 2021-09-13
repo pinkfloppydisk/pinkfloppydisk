@@ -1,6 +1,9 @@
 ---
+title: Content Test
+author: pinkfloppydisk
+date: [[09-09-2021]]
+tags: obsidian, notetaking, rant, toolsforthought
 layout: post
-title: Let's do test, Content Filler
 ---
 
 In a near future Los Angeles, Theodore Twombly is a lonely, introverted, depressed man who works for a business that has professional writers compose letters for people who are unable to write letters of a personal nature themselves. Unhappy because of his impending divorce from his childhood sweetheart Catherine, Theodore purchases an operating system upgrade that includes a virtual assistant with artificial intelligence, designed to adapt and evolve.

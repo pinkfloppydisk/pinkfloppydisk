@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "40e08a44af475ee2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2249c8ec53f5459e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021/2021-07-07-content-test.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76f7785b3e20494b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad316a88ef163b5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fd0199401619a5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "824259b88de4bcbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8066bd4b6b5c396c",
+    "type": "split",
+    "children": [
+      {
+        "id": "400ecd44e210231b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdbf66f5897a16c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021/2021-07-07-content-test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2249c8ec53f5459e",
+  "lastOpenFiles": [
+    "2021/2021-07-07-content-test.md",
+    "2021/2021-09-09-trying-out-obsidian.md"
+  ]
+}
