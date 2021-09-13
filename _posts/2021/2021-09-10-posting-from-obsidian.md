@@ -1,6 +1,6 @@
 ---
 title: Posting from Obsidian
-author: Kushaiah Felisilda
+author: pinkfloppydisk
 date: [[09-10-2021]]
 tags: obsidian, notetaking, rant, toolsforthought
 alias: [Tools,Writing,Obsidian,pinkfloppydisk]

@@ -1,6 +1,6 @@
 ---
 title: Title Here
-author: Kushaiah Felisilda
+author: pinkfloppydisk
 date: [[09-11-2021]]
 tags: obsidian, notetaking, rant, toolsforthought
 alias: [Tools,Writing,Obsidian,pinkfloppydisk]

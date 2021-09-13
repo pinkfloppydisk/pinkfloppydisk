@@ -1,6 +1,6 @@
 ---
 title: Community Driven Tools
-author: Kushaiah Felisilda
+author: pinkfloppydisk
 date: [[09-12-2021]]
 tags: obsidian, notetaking, rant, toolsforthought, community
 alias: [Tools,Writing,Obsidian,pinkfloppydisk]

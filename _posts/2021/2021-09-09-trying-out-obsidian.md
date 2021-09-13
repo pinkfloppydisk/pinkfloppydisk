@@ -1,6 +1,6 @@
 ---
 title: Trying out Obsidian
-author: Kushaiah Felisilda
+author: pinkfloppydisk
 date: [[09-09-2021]]
 tags: obsidian, notetaking, rant, toolsforthought
 alias: [Tools,Writing,Obsidian,pinkfloppydisk]
