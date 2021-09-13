@@ -1,10 +1,10 @@
-title: Pinkfloppydisk
-description: Yet another corner on the internet
+title: pinkfloppydisk
+description: Yet another corner on the internet.
 
 # Set this to your domain; baseurl is for the folder in your domain, if you have one -- `blog`.
 # you can leave both of them blank if you are deploying on a top-level domain.
 url: http://127.0.0.1:4000
-baseurl: 
+baseurl: ''
 
 # footer
 footer:
@@ -12,7 +12,7 @@ footer:
   custom: false
 
 # if above footer:custom is 'true', then this will be printed instead
-footer_custom: 'An ever Work-in-Progress by <a href="pinkfloppydisk.com">Pinkfloppydisk</a>.'
+footer_custom: 'Always a Work-in-Progress by <a href="pinkfloppydisk.com">pinkfloppydisk</a>.'
 
 layout:
   theme: default # default, vintage, nord

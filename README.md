@@ -1,4 +1,4 @@
-# Pinkfloppydisk website
+# pinkfloppydisk website
 
 > Theme is from Oinam
 
