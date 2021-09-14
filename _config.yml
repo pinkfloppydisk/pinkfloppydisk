@@ -3,7 +3,7 @@ description: Yet another corner on the internet.
 
 # Set this to your domain; baseurl is for the folder in your domain, if you have one -- `blog`.
 # you can leave both of them blank if you are deploying on a top-level domain.
-url: pinkfloppydisk.com
+url: https://pinkfloppydisk.github.io/
 baseurl: ''
 
 # footer
@@ -12,7 +12,7 @@ footer:
   custom: false
 
 # if above footer:custom is 'true', then this will be printed instead
-footer_custom: 'Always a Work-in-Progress by <a href="pinkfloppydisk.com">pinkfloppydisk</a>.'
+footer_custom: 'Always a Work-in-Progress by <a href="https://pinkfloppydisk.github.io/">pinkfloppydisk</a>.'
 
 layout:
   theme: default # default, vintage, nord
