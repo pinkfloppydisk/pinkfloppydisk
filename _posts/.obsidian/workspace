@@ -7,9 +7,25 @@
         "id": "2249c8ec53f5459e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "2021/2021-13-09-obsidian-to-internet.md",
+            "mode": "source"
+          }
+        },
+        "group": "9fa1976fb78b5487"
+      },
+      {
+        "id": "151d47fcab63e885",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021/2021-13-09-obsidian-to-internet.md",
+            "mode": "preview"
+          }
+        },
+        "group": "9fa1976fb78b5487"
       }
     ],
     "direction": "vertical"
@@ -65,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2021/2021-13-09-obsidian-to-internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -72,6 +89,39 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "048074f335974074",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2021/2021-13-09-obsidian-to-internet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aab534ac2f7ac00f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb1cca5ea31cc8b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2021/2021-13-09-obsidian-to-internet.md"
               }
             }
           }
@@ -84,6 +134,10 @@
   },
   "active": "2249c8ec53f5459e",
   "lastOpenFiles": [
+    "2021/2021-13-09-obsidian-to-internet.md",
+    "2021/2021-13-09-.md",
+    "2021/2021-13-09-community-driven-tools.md",
+    "2021/2021-13-09-congue-netus.md",
     "2021/2021-07-07-content-test.md",
     "2021/2021-09-09-trying-out-obsidian.md"
   ]
