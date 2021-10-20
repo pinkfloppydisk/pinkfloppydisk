@@ -1,7 +1,7 @@
 ---
 title: I haven't used Obsidian since
 author: Kushaiah Felisilda
-date: [[10-20-2021]]
+date: [[20-10-2021]]
 tags: obsidian, notetaking, rant, toolsforthought, community
 alias: [Tools,Writing,Obsidian,pinkfloppydisk]
 ---
