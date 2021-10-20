@@ -1,5 +1,5 @@
 ---
-title: Title Here
+title: Day 3 on Obsidian
 author: pinkfloppydisk
 date: [[11-09-2021]]
 tags: obsidian, notetaking, rant, toolsforthought

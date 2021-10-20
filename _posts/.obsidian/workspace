@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021/2021-13-09-obsidian-to-internet.md",
+            "file": "2021/10-20-2021-I-haven't-used-Obsidian-since.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021/2021-13-09-obsidian-to-internet.md",
+            "file": "2021/10-20-2021-I-haven't-used-Obsidian-since.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021/2021-13-09-obsidian-to-internet.md",
+                "file": "2021/10-20-2021-I-haven't-used-Obsidian-since.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021/2021-13-09-obsidian-to-internet.md",
+                "file": "2021/10-20-2021-I-haven't-used-Obsidian-since.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021/2021-13-09-obsidian-to-internet.md"
+                "file": "2021/10-20-2021-I-haven't-used-Obsidian-since.md"
               }
             }
           }
@@ -134,11 +134,14 @@
   },
   "active": "2249c8ec53f5459e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2021/2021-09-09-trying-out-obsidian.md",
+    "2021/2021-11-09-day-3-on-obsidian.md",
+    "2021/2021-10-09-posting-from-obsidian.md",
     "2021/2021-13-09-obsidian-to-internet.md",
     "2021/2021-13-09-.md",
     "2021/2021-13-09-community-driven-tools.md",
     "2021/2021-13-09-congue-netus.md",
-    "2021/2021-07-07-content-test.md",
-    "2021/2021-09-09-trying-out-obsidian.md"
+    "2021/2021-07-07-content-test.md"
   ]
 }
